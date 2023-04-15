@@ -16,7 +16,7 @@ user_input = input("\033[46m\033[27mPlease enter any encrypted code you have in 
 print("*" * 94)
 # Process the input
 processing = "\033[33m\033[1mPlease wait, we're currently processing the encrypted code you entered.\033[0m"
-print("\n\n", processing, "\n\n")
+print("\n", processing, "\n")
 def countdown(n):
     if(n==0):
         print ("\n\33[45m\033[3mThank you for your patience\033[0m" + "\33[45m\033[3m!\033[0m\n")
