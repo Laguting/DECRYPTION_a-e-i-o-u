@@ -50,4 +50,13 @@ for i in range (len(user_input)):
     else:
         decrypted_input += user_input[i]
 # Print the decrypted input
+present_decryption = Figlet(font = "standard")
+print(colored(present_decryption.renderText("Here it is.."), "red"))
+print("\033[43m\033[1mThe encrypted code you entered a while a go is: \033[0m", decrypted_input, '\n\n')
+
 # Program closing
+closing_mess = Figlet(font = "digital")
+print("\033[44m=\033[0m" * 94)
+print(colored(closing_mess.renderText("\nThank you for availing our services !"), "green"))
+print("\033[107mHope to see you again...\033[0m\n")
+print("\033[44m=\033[0m" * 94)
