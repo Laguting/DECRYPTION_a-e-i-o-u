@@ -3,4 +3,8 @@ https://user-images.githubusercontent.com/129570700/232307404-95334464-4b28-44ce
 
 # DESCRIPTION 📝
  - If the user encountered an encrypted message where its vowels is assigned to a specific symbols similar to this ('a' = *, 'e' = & , 'i' = # , 'o' = + 'u' = !). 
- - It uses tuple to hold the corresponding symbols to each vowels. Then, 
+ - It uses tuple to hold the corresponding symbols to each vowels. Then, it'll check each character inputted and replace it by its designated letter.
+ - The program used a step by step checking in the form of if, elif, and else statments.
+ - It is also enhanced by using pyfiglet and termcolor for presentation.
+ 
+
