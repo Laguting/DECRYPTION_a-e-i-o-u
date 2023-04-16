@@ -9,5 +9,5 @@ https://user-images.githubusercontent.com/129570700/232307404-95334464-4b28-44ce
  
  ### How to use the program using IDE 👩🏽‍💻?
  1. Copy the code to your preferred IDE.
- 2. run the code.
- 
+ 2. Open the terminal and run the code.
+ 3. The program will then ask for the encrypted code that you have in mind.
