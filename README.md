@@ -14,6 +14,9 @@ https://user-images.githubusercontent.com/129570700/232307404-95334464-4b28-44ce
  4. Enter the encrypted code and then the program will process it.
  5. The decrypted code will be displayed on the screen.
  
+  *Sample Picture*
+![1](https://user-images.githubusercontent.com/129570700/232307535-3285c7b1-0604-4b40-9894-3b4b54526f54.PNG) 
+ 
  ### How to run the program using git bash?
  > git clone https://github.com/Laguting/DECRYPTION_a-e-i-o-u
  
