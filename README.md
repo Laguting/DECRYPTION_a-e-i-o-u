@@ -15,8 +15,14 @@ https://user-images.githubusercontent.com/129570700/232307404-95334464-4b28-44ce
  5. The decrypted code will be displayed on the screen.
  
  ### How to run the program using git bash?
+ > git clone https://github.com/Laguting/DECRYPTION_a-e-i-o-u
+ 
+ > cd DECRYPTION_a-e-i-o-u/
+ 
+ > python decrypt.py
  
  # INSTALLATIONS 📥
 
  # CREDITS 👩
+ - Developed by *Maricon Jane G. Laguting* from *BSCpE 1-4*
  
