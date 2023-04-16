@@ -11,3 +11,12 @@ https://user-images.githubusercontent.com/129570700/232307404-95334464-4b28-44ce
  1. Copy the code to your preferred IDE.
  2. Open the terminal and run the code.
  3. The program will then ask for the encrypted code that you have in mind.
+ 4. Enter the encrypted code and then the program will process it.
+ 5. The decrypted code will be displayed on the screen.
+ 
+ ### How to run the program using git bash?
+ 
+ # INSTALLATIONS 📥
+
+ # CREDITS 👩
+ 
