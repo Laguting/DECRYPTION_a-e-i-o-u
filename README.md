@@ -7,4 +7,7 @@ https://user-images.githubusercontent.com/129570700/232307404-95334464-4b28-44ce
  - The program used a step by step checking in the form of if, elif, and else statments.
  - It is also enhanced by using pyfiglet and termcolor for presentation.
  
-
+ ### How to use the program using IDE 👩🏽‍💻?
+ 1. Copy the code to your preferred IDE.
+ 2. run the code.
+ 
