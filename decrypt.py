@@ -17,13 +17,11 @@ print("*" * 94)
 # Process the input
 processing = "\033[33m\033[1mPlease wait, we're currently processing the encrypted code you entered.\033[0m"
 print("\n", processing, "\n")
-def countdown(n):
-    if(n==0):
-        print ("\n\33[45m\033[3mThank you for your patience\033[0m" + "\33[45m\033[3m!\033[0m\n")
-    else: 
-        print(n)
-        countdown(n-1)
-countdown(5)
+  # Timer 
+import time
+print("\33[1m\33[34mProcessing................................\33[0m")
+time.sleep(5)
+print("\n\33[45m\033[3mThank you for your patience\033[0m" + "\33[45m\033[3m!\033[0m\n")
 print("." * 94)
 
 # a, e, i, o, u assigned to *, &, #, +, ! respectively using Tuple
@@ -56,7 +54,7 @@ print("\033[43m\033[1mThe encrypted code you entered a while a go is: \033[0m", 
 
 # Program closing
 closing_mess = Figlet(font = "digital")
-print("\033[44m=\033[0m" * 94)
+print("\033[35m=*\033[0m" * 94)
 print(colored(closing_mess.renderText("\nThank you for availing our services !"), "green"))
 print("\033[107mHope to see you again...\033[0m\n")
-print("\033[44m=\033[0m" * 94)
+print("\033[35m=*\033[0m" * 94)
