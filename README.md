@@ -18,7 +18,7 @@ https://user-images.githubusercontent.com/129570700/232307404-95334464-4b28-44ce
 ![1](https://user-images.githubusercontent.com/129570700/232307535-3285c7b1-0604-4b40-9894-3b4b54526f54.PNG) 
  
  ### How to run the program using git bash?
- > git clone https://github.com/Laguting/DECRYPTION_a-e-i-o-u
+ > git clone https://github.com/Laguting/DECRYPTION_a-e-i-o-u.git
  
  > cd DECRYPTION_a-e-i-o-u/
  
