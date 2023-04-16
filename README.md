@@ -22,6 +22,10 @@ https://user-images.githubusercontent.com/129570700/232307404-95334464-4b28-44ce
  > python decrypt.py
  
  # INSTALLATIONS 📥
+ - **This program used two installations namely Pyfiglet and Termcolor. Install it by typing the following in the terminal.**
+> pip install pyfiglet
+
+> pip install termcolor
 
  # CREDITS 👩
  - Developed by *Maricon Jane G. Laguting* from *BSCpE 1-4*
